@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[BradTate]]></title>
-        <description><![CDATA[BradTate]]></description>
+        <title><![CDATA[My Grid Site]]></title>
+        <description><![CDATA[My Grid Site]]></description>
         <link>https://thegrid.ai/bradtate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 18:51:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 18:56:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bradtate/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/bradtate/this-is-the-first-post-on-this-grid-site/index.html</link>
             <guid isPermaLink="false">6146d0f4-de3a-4a91-94d5-8be52704f71b</guid>
             <pubDate>Thu, 21 Apr 2016 18:51:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa85cd18-430c-421c-9a09-7c430b73ff4e.gif">]]></description>
+            <link>https://thegrid.ai/bradtate/94bd038c-02b1-4f68-b98f-5db449ce85c4/index.html</link>
+            <guid isPermaLink="false">94bd038c-02b1-4f68-b98f-5db449ce85c4</guid>
+            <pubDate>Thu, 21 Apr 2016 18:55:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
